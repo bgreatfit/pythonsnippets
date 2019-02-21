@@ -1,1 +1,1 @@
-# Useful python code snippets for Data Analysis
+# Helper python functions for Data Analysis
